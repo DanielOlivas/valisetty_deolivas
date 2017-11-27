@@ -1,0 +1,73 @@
+Êşº¾   5•
+ … Ö	 „ ×@@     	 „ Ø	 Ù Ú
+ „ Û	 Ù Ü
+ „ İ
+ „ Ş
+ „ ß	 Ù à
+ „ á	 „ â@      	 „ ã	 „ ä	 „ å	 „ æ	 „ ç 	 „ è	 „ é
+ „ ê@       	 „ ë
+ „ ì	 „ í
+ „ î
+ „ ï ğğ      
+ „ ñ@      	 „ ò
+ Ã ó@o@     @333333
+ Ã ô
+ „ õ
+ „ ö
+ „ ÷@(      
+ Ã ÷
+ ø ù@4      
+ „ ú
+ ø û	 „ ü
+ „ ı
+ ø ş	 „ ÿ
+ Ã À      
+ „	 „@)™™™™™š	 „	 „
+ Ã õ	 „
+
+ Ä
+ Ä	@2      
+ ø
+
+ ø
+
+ „
+
+ „
+ „	 „	 „
+ ø
+ ø	 Ù@I      	 „@Y      	 „
+ „
+ „
+ „
+ „@RÀ     @@     
+ ø?à      @bÀ     
+ „
+ „@v€     
+ „ 	 „!
+"#
+$%	 „&  *
++,
+ „-	 „.
+ „/
+"0
+ „1
+ „2
+ „
+ „3Àf€     @f€     	 „456 	enemyVAim I currentEnemyV gunTurnAmount D 	trackName Ljava/lang/String; vDepth enemyV [[D vDepthChange Z aimingV averageC c fire time bulletP turnD EnemyX EnemyY fieldXMiddle fieldYMiddle 	direction distanceFromE cornerX cornerY closestDistance fireAngleMod oldEnemyHeading first <init> ()V Code LineNumberTable LocalVariableTable this LVishalA_DanielO/DVRobo; run assumeV StackMapTable onScannedRobot (Lrobocode/ScannedRobotEvent;)V d Lrobocode/ScannedRobotEvent; 
+absBearing g Ljava/awt/Graphics2D; 	bulletPow bulletSpeed enemyHeading enemyHeadingChange deltaTiming predictX predictY aiming bearingEnemy distanceEnemy targetEnemyX targetEnemyY inverseT78 onDeath (Lrobocode/DeathEvent;)V Lrobocode/DeathEvent; onWin (Lrobocode/WinEvent;)V i Lrobocode/WinEvent; 
+onHitRobot (Lrobocode/HitRobotEvent;)V Lrobocode/HitRobotEvent; normalRelativeAngle (D)D angle 
+fixedAngle <clinit> 
+SourceFile DVRobo.java ¥ ¦  ‡  Š9:;<=>;?=@=A=B;C= ¤ ‘ ’ Š ˆ ‡  ‘ ” ‡  ‡   “ ‡DE › ŠFE œ ŠGHIH java/lang/DoubleJK — ŠLEMENEOPQERSTUEV Ğ ™ ŠWEX Ğ š ŠYEZ[ – Š • ‘ † ‡ £ Š]`ab=cdeTfTgh ĞiE Ï ĞjKkK Ÿ Š   ŠlTm Ğn; ¡ Š ˜ ŠoKpKqErKsEtK •KuK ‹ Œvwxyz{|} BootstrapMethods~€‚ƒ„…K ‰ Š†K‡EˆE‰EŠ ¦ ¢ Š VishalA_DanielO/DVRobo robocode/AdvancedRobot robocode/ScannedRobotEvent java/awt/Graphics2D java/awt/Color blue Ljava/awt/Color; setBodyColor (Ljava/awt/Color;)V red setGunColor setRadarColor setScanColor yellow setBulletColor getBattleFieldHeight ()D getBattleFieldWidth setAdjustRadarForGunTurn (Z)V setAdjustGunForRobotTurn turnRadarRightRadians (D)V getDistance getBearingRadians getHeadingRadians getGraphics ()Ljava/awt/Graphics2D; 	getEnergy java/lang/Math min (DD)D getX sin getY cos getVelocity getTime ()J‹ java/awt/geom/Point2D$Double Double InnerClasses distance (DDDD)D setColor fillOval (IIII)V max atan2 robocode/util/Utils normalAbsoluteAngle getGunHeadingRadians setTurnGunRightRadians setFire pow sqrt green setAhead setTurnRightRadians getRadarHeadingRadians setTurnRadarRightRadians random back 	turnRight robocode/HitRobotEvent getName ()Ljava/lang/String; java/lang/String equals (Ljava/lang/Object;)Z out Ljava/io/PrintStream;
+Œ Tracking  due to collision makeConcatWithConstants &(Ljava/lang/String;)Ljava/lang/String; java/io/PrintStream println (Ljava/lang/String;)V setBack setTurnGunRight 
+getBearing 
+getHeading getRadarHeading execute java/awt/geom/Point2D€‘ $java/lang/invoke/StringConcatFactory“ Lookup ˜(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/String;Ljava/lang/invoke/MethodType;Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/invoke/CallSite;” %java/lang/invoke/MethodHandles$Lookup java/lang/invoke/MethodHandles ! „ …     † ‡    ˆ ‡     ‰ Š     ‹ Œ     ‡          ‘     ’ Š     “ ‡     ” ‡     • ‘     – Š    — Š    ˜ Š    ™ Š    š Š    › Š    œ Š      ‡      Š     Ÿ Š       Š    ¡ Š    ¢ Š     £ Š    ¤ ‘     ¥ ¦  §   C     *· *µ * µ ±    ¨         < 	 = ©        ª «    ¬ ¦  §  ã    *² ¶ *² ¶ 	*² ¶ 
+*² ¶ *² ¶ ² ™ * µ ³ ³ ² ™ §*µ ² Å ³ *´ H*´ ¢ ƒ*´ ™ *´   !² ™ 
+²   *´ H§ (*´ wH§ ² Ÿ 
+²   *´ H§ 	*´ wH*µ *´ ² ¢ ² *´ 2*´ 'R*Y´ `µ §ÿŞ*Y´ `µ §ÿz*µ ³ *¶  o³ *¶  o³ *¶ *¶  * "¶ $§ÿù    ¨   Š "   T  U  V  W  X # Z ) [ 0 \ 4 ^ 8 ` > a C b O c T d ] e l f y g  j Š n ˜ o   r ¦ v « w µ x Ã y Ğ { İ } â  æ ‚ ñ ƒ ü „ … ‡ ˆ ©     T  ­ Š    ª «   ®    4ü $ú #  ¯ °  §  « 
+   6 %³ '+¶ ( )— 	 +³ '+¶ -*¶ .cI*¶ /:² '*¶ 0 1o+¶ 3 o¸ 4¸ 49 5 kg9*¶ 7+¶ ((¸ 8kc³ 9*¶ :+¶ ((¸ ;kc³ <+¶ = >˜œ 
+³ § C+¶ = %— 
+³ § 1+¶ = %˜ &+¶ = >—› ² š 
+³ § ²   ³ *¶ @Š*´ Ag+¶ ( Bo— *´ D  ² ³ E§ *µ D² *´ 2² E+¶ =R*Y´ `µ *´ ²   *µ *µ *µ *´ ² ¢ %*Y´ ² *´ 2² 1cµ *Y´ `µ §ÿ×*Y´ ² ‡oµ +¶ F9		*´ Gg9*	µ G9² 99² <9c\9k*¶ :*¶ 7¸ H˜œ v	¸ ;*´ kc9	¸ 8*´ kc9	c9	² ¶ Idd¶ J K¸ M9 K¸ M9*¶  Kg¸ 49*¶  Kg¸ 49§ÿs*¶ 7g*¶ :g¸ N¸ O9**¶ Pg¸ Q¶ R*¶ S² 9² — **¶ µ T§ *µ T² <² — **¶ µ U§ *µ U² 9*´ Tg² <*´ Ug¸ N¸ O9² 9*´ Tg ¸ V² <*´ Ug ¸ Vc¸ W9*´ T*´ c¸ 8kc9*´ U*´ c¸ ;kc9 K¸ M9*¶  5g¸ 49 K¸ M9*¶  5g¸ 49² ¶ Idd¶ J² ¶ Idd¶ J² X¶ Idd¶ J*¶ 7 5g— 9*¶ 7 5c˜œ +*¶ : 5g— *¶ : 5c˜œ *Y´  Ygµ **´ ² [¸ Mµ **´ +¶ (¸ 4µ *¶ 7g*¶ :g¸ N¸ O9*´   #*¶ 7 \¸ ;kg9*¶ : \¸ 8kg9*¶ 7g*¶ :g¸ N¸ O³ ^*d*´ h‡¶ _*² ^*¶ .g¸ Q¶ `*(*¶ ag¸ Q %k¶ b±    ¨  J R         • ! – ' ™ B š N  _  p ¡ { ¢ ‚ ¤  ¥ ” § ª ¨ ° © · « ¾ ¬ Â ± à ² é µ î ¹ ş º » ¼ À Á! Â+ Ã@ ÄM ÆZ É` Êi Ëo Ïr Ğ| Ñ™ Ô¨ Õ· Ø¾ ÛÆ Ü× àá áë âú ã ç" ê0 ë6 î@ ïK òP ôZ õe øj ü‚ ÿ¤¸ÌÖåï	ş#6>S‹—¥´Ê"Ò#â$ò(	+,$-5. ©   ¬   6 ª «    6 ± ²  ! ³ Š  ' ´ µ  Bô ¶ Š  Nè · Š `Ö ¸ Š 	iÍ ¹ Š rÄ º Š w¿ » Š |º ¼ Š " ½ Š ‚´ ¾ Š ¤’ ¿ Š ¸~ À Š Ìj Á Š Ê l Â Š  ®   a ÿ j  „ Ã Ä  "
+&(	+ÿ .  „ Ã Ä  û ü >ÿ,  „ Ã Ä  ü Z  Å Æ  §   ‹     : c e¸ gk¸ M³ [¸ g h—  c j¸ gk¸ M³ [ e¸ gk³ ³ ±    ¨      2 3 4 *7 58 99 ©       : ª «     : ± Ç  ®    *  È É  §   …     $=2¢ * c¶ l* %¶ m* n¶ p„§ÿâ±    ¨      > ? @ A > #C ©       ! Ê ‡    $ ª «     $ ± Ë  ®   	 ü ú    Ì Í  §   »     ^*´ qÆ !*´ q+¶ r¶ sš *´ t+¶ rº u  ¶ v*+¶ rµ q* %¶ S* c¶ w**´ x¶ y**+¶ z*¶ {*¶ |gc¶ }µ x*¶ ~±    ¨   & 	  J K %O -R 4S ;T CU YV ]W ©       ^ ª «     ^ ± Î  ®    %  Ï Ğ  §   ¡     8' — ' ˜ '¯'J) ˜ ) ncJ§ÿò) — ) ngJ§ÿò)¯    ¨   "   \ ] ^ _ ` %a -b 6c ©        8 ª «     8 Ñ Š   $ Ò Š  ®   	 ü   Ó ¦  §   A       ú³ ³  j³ [³ ƒ³ ±    ¨         $ 
+ D  G  L  Ô    Õ_    \^ 	’ '    ( )
